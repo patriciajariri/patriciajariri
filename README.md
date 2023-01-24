@@ -1,6 +1,6 @@
-### Welcome! 👋 <br><br>
+### Welcome!  <br><br>
 
-I'm Patricia (Tricia)<br><br>
+I'm Patricia (Tricia) 👋 <br><br>
 
 ・😇 Self-taught Data Analyst <br>
 ・👩🏽‍💻 Fan of SQL and currently learning Excel and Tableau<br>
