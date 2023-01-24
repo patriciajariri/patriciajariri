@@ -1,10 +1,10 @@
-### Welcome! 👋
+### Welcome! 👋 <br><br>
 
-I'm Patricia (Tricia)
+I'm Patricia (Tricia)<br><br>
 
-・😇 Self-taught Data Analyst
-・👩🏽‍💻 Fan of SQL and currently learning Excel and Tableau
-・🌱 Wife, dog mom, fitness enthusiast and foodie
+・😇 Self-taught Data Analyst <br>
+・👩🏽‍💻 Fan of SQL and currently learning Excel and Tableau<br>
+・🌱 Wife, dog mom, fitness enthusiast and foodie<br>
 
 <!--
 **patriciajariri/patriciajariri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
