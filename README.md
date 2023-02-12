@@ -3,7 +3,7 @@
 I'm Patricia (Tricia) 👋 <br>
 
 ・😇 Self-taught Data Analyst <br>
-・👩🏽‍💻 Fan of SQL and currently learning Excel and Tableau<br>
+・👩🏽‍💻 SQL, Tableau, Excel<br>
 ・🌱 Wife, dog mom, fitness enthusiast and foodie<br>
 
 <!--
